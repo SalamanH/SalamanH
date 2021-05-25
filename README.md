@@ -45,10 +45,8 @@
 
 
 
-<details>
   <summary>My GitHub Stats</summary>
-<img align="left" alt="SalamanH github stats" src="https://github-readme-stats.vercel.app/api?username=salamanh"/>
-</details>
+<img align="left" alt="SalamanH github stats" src="https://github-readme-stats.vercel.app/api?username=salamanh" />
 
 
 
