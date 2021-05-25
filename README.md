@@ -46,7 +46,7 @@
 
 
   <summary>My GitHub Stats</summary>
-<img align="left" alt="SalamanH github stats" src="https://github-readme-stats.vercel.app/api?username=salamanh&show_icons=true&theme=radical" />
+<img align="left" alt="SalamanH github stats" src="https://github-readme-stats.vercel.app/api?username=salamanh&show_icons=true&theme=tokyonight&hide=issues,contribs" />
 
 
 
