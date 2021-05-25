@@ -47,8 +47,7 @@
 
 <details>
   <summary>My GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanh)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="left" alt="SalamanH github stats" src="https://github-readme-stats.vercel.app/api?username=salamanh"/>
 </details>
 
 
